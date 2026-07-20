@@ -1,0 +1,14 @@
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\bin\Debug\net8.0\EjercicioLuhn.exe
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\bin\Debug\net8.0\EjercicioLuhn.deps.json
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\bin\Debug\net8.0\EjercicioLuhn.runtimeconfig.json
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\bin\Debug\net8.0\EjercicioLuhn.dll
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\bin\Debug\net8.0\EjercicioLuhn.pdb
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\obj\Debug\net8.0\EjercicioLuhn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\obj\Debug\net8.0\EjercicioLuhn.AssemblyInfoInputs.cache
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\obj\Debug\net8.0\EjercicioLuhn.AssemblyInfo.cs
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\obj\Debug\net8.0\EjercicioLuhn.csproj.CoreCompileInputs.cache
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\obj\Debug\net8.0\EjercicioLuhn.dll
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\obj\Debug\net8.0\refint\EjercicioLuhn.dll
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\obj\Debug\net8.0\EjercicioLuhn.pdb
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\obj\Debug\net8.0\EjercicioLuhn.genruntimeconfig.cache
+C:\Users\Juand\Downloads\Vizcaino-Juan-Formativa1\EjercicioLuhn\EjercicioLuhn\obj\Debug\net8.0\ref\EjercicioLuhn.dll
