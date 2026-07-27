@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|c:\\users\\juand\\downloads\\vizcaino-juan-formativa1\\ejercicio02poo\\gestortareaspoo\\servicios\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|solutionrelative:gestortareaspoo\\servicios\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|c:\\users\\juand\\downloads\\vizcaino-juan-formativa1\\ejercicio02poo\\gestortareaspoo\\modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|solutionrelative:gestortareaspoo\\modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|c:\\users\\juand\\downloads\\vizcaino-juan-formativa1\\ejercicio02poo\\gestortareaspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|solutionrelative:gestortareaspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|c:\\users\\juand\\downloads\\vizcaino-juan-formativa1\\ejercicio02poo\\gestortareaspoo\\persistencia\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|solutionrelative:gestortareaspoo\\persistencia\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|c:\\users\\juand\\downloads\\vizcaino-juan-formativa1\\ejercicio02poo\\gestortareaspoo\\modelos\\tareaconvencimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|solutionrelative:gestortareaspoo\\modelos\\tareaconvencimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|c:\\users\\juand\\downloads\\vizcaino-juan-formativa1\\ejercicio02poo\\gestortareaspoo\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|solutionrelative:gestortareaspoo\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|c:\\users\\juand\\downloads\\vizcaino-juan-formativa1\\ejercicio02poo\\gestortareaspoo\\modelos\\iexportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|solutionrelative:gestortareaspoo\\modelos\\iexportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|c:\\users\\juand\\downloads\\vizcaino-juan-formativa1\\ejercicio02poo\\gestortareaspoo\\modelos\\prioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|solutionrelative:gestortareaspoo\\modelos\\prioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|c:\\users\\juand\\downloads\\vizcaino-juan-formativa1\\ejercicio02poo\\gestortareaspoo\\gestortareaspoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CF166AF-D100-469F-8E5A-10F5D55A88EA}|GestorTareasPOO\\GestorTareasPOO.csproj|solutionrelative:gestortareaspoo\\gestortareaspoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TareaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Persistencia\\TareaDTO.cs",
+              "RelativeDocumentMoniker": "GestorTareasPOO\\Persistencia\\TareaDTO.cs",
+              "ToolTip": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Persistencia\\TareaDTO.cs",
+              "RelativeToolTip": "GestorTareasPOO\\Persistencia\\TareaDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T04:17:34.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestorTareas.cs",
+              "DocumentMoniker": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Servicios\\GestorTareas.cs",
+              "RelativeDocumentMoniker": "GestorTareasPOO\\Servicios\\GestorTareas.cs",
+              "ToolTip": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Servicios\\GestorTareas.cs",
+              "RelativeToolTip": "GestorTareasPOO\\Servicios\\GestorTareas.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAADwv5IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T03:23:28.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareaConVencimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Modelos\\TareaConVencimiento.cs",
+              "RelativeDocumentMoniker": "GestorTareasPOO\\Modelos\\TareaConVencimiento.cs",
+              "ToolTip": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Modelos\\TareaConVencimiento.cs",
+              "RelativeToolTip": "GestorTareasPOO\\Modelos\\TareaConVencimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T03:21:12.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Modelos\\Categoria.cs",
+              "RelativeDocumentMoniker": "GestorTareasPOO\\Modelos\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Modelos\\Categoria.cs",
+              "RelativeToolTip": "GestorTareasPOO\\Modelos\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T03:16:43.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Modelos\\Tarea.cs",
+              "RelativeDocumentMoniker": "GestorTareasPOO\\Modelos\\Tarea.cs",
+              "ToolTip": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Modelos\\Tarea.cs",
+              "RelativeToolTip": "GestorTareasPOO\\Modelos\\Tarea.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T03:10:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IExportable.cs",
+              "DocumentMoniker": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Modelos\\IExportable.cs",
+              "RelativeDocumentMoniker": "GestorTareasPOO\\Modelos\\IExportable.cs",
+              "ToolTip": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Modelos\\IExportable.cs",
+              "RelativeToolTip": "GestorTareasPOO\\Modelos\\IExportable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T03:05:25.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prioridad.cs",
+              "DocumentMoniker": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Modelos\\Prioridad.cs",
+              "RelativeDocumentMoniker": "GestorTareasPOO\\Modelos\\Prioridad.cs",
+              "ToolTip": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Modelos\\Prioridad.cs",
+              "RelativeToolTip": "GestorTareasPOO\\Modelos\\Prioridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T03:03:04.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestorTareasPOO.csproj",
+              "DocumentMoniker": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\GestorTareasPOO.csproj",
+              "RelativeDocumentMoniker": "GestorTareasPOO\\GestorTareasPOO.csproj",
+              "ToolTip": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\GestorTareasPOO.csproj",
+              "RelativeToolTip": "GestorTareasPOO\\GestorTareasPOO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-27T02:58:20.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Program.cs",
+              "RelativeDocumentMoniker": "GestorTareasPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\Juand\\Downloads\\Vizcaino-Juan-Formativa1\\Ejercicio02POO\\GestorTareasPOO\\Program.cs",
+              "RelativeToolTip": "GestorTareasPOO\\Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAADwv30AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T02:44:07.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
